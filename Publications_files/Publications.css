@@ -81,6 +81,11 @@
     background: transparent;
     opacity: 1.00;
 }
+.style_1 {
+    color: rgb(84, 166, 189);
+    line-height: 22px;
+    opacity: 1.00;
+}
 .paragraph_style_3 {
     color: rgb(1, 25, 147);
     font-family: 'HoeflerText-Regular', 'Hoefler Text', 'Times New Roman', serif;

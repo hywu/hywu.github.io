@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:28B04964-FF77-4288-8692-A28045DF4FB9</id>
  <title>Page list Atom feed</title>
- <updated>2019-01-06T11:19:30-05:00</updated>
+ <updated>2019-01-06T11:24:48-05:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">Home</title>
   <in-navbar xmlns="urn:iweb:">D7235F33-D15C-4A74-BB43-05E356758D9E</in-navbar>
   <link rel="alternate" href="Home.html"/>
-  <updated>2019-01-06T11:19:30.001-05:00</updated>
+  <updated>2019-01-06T11:24:48.001-05:00</updated>
   <content>Home</content>
  </entry>
  <entry>
@@ -23,7 +23,7 @@
   <title xmlns="urn:iweb:">Research</title>
   <in-navbar xmlns="urn:iweb:">EFC44510-5A07-463A-9E41-D2A4418336B6</in-navbar>
   <link rel="alternate" href="Research.html"/>
-  <updated>2019-01-06T11:19:30.002-05:00</updated>
+  <updated>2019-01-06T11:24:48.002-05:00</updated>
   <content>Research</content>
  </entry>
  <entry>
@@ -32,7 +32,7 @@
   <title xmlns="urn:iweb:">Publications</title>
   <in-navbar xmlns="urn:iweb:">E69DB41E-CEBA-4D22-A0A3-B29DD8E6D377</in-navbar>
   <link rel="alternate" href="Publications.html"/>
-  <updated>2019-01-06T11:19:30.003-05:00</updated>
+  <updated>2019-01-06T11:24:48.003-05:00</updated>
   <content>Publications</content>
  </entry>
  <entry>
@@ -41,7 +41,7 @@
   <title xmlns="urn:iweb:">CV</title>
   <in-navbar xmlns="urn:iweb:">840D25D8-1991-41FD-AD80-9E1C93AB2CB3</in-navbar>
   <link rel="alternate" href="CV.html"/>
-  <updated>2019-01-06T11:19:30.004-05:00</updated>
+  <updated>2019-01-06T11:24:48.004-05:00</updated>
   <content>CV</content>
  </entry>
  <entry>
@@ -50,7 +50,7 @@
   <title xmlns="urn:iweb:">Outreach</title>
   <in-navbar xmlns="urn:iweb:">D1BFF3D8-4283-402C-8672-4EC5198FBCFF</in-navbar>
   <link rel="alternate" href="Outreach.html"/>
-  <updated>2019-01-06T11:19:30.005-05:00</updated>
+  <updated>2019-01-06T11:24:48.005-05:00</updated>
   <content>Outreach</content>
  </entry>
 </feed>
